@@ -14,6 +14,7 @@ It allows users to dynamically select their preferred cloud provider and automat
 🛠️ Easily extensible for future cloud integrations
 
 🖥️ Usage
+
 🔧 On Linux/macOS
 chmod +x multicloud.sh  
 ./multicloud.sh
